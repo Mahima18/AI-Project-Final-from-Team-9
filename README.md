@@ -16,8 +16,6 @@ Attatched Files :
 
 4.LSTM.ipynb - LSTM networks are a special kind of Recurrent Neural Networks (RNN), capable of learning long-term dependencies in the data.
 
-5.VGG16.ipynb - Transfer learning focuses on using the knowledge gained while solving one problem and applying it to solve a different but related problem .The model we decided to use is VGG16 with the Imagenet dataset.
-
 Dataset Link : https://uta.app.box.com/s/e7nsmloj8xmblosvfg98q42fgqnjy6dv
 
 Prior Work (Research Paper) Link : https://arxiv.org/pdf/1904.07312.pdf
